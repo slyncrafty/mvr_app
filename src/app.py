@@ -46,7 +46,7 @@ CONTENT_STYLE = {
 # Define the sidebar layout
 sidebar = html.Div(
     [
-        html.H3("Movie Recommender", className="display-6"),
+        html.H3("Movie Recommender App", className="display-6"),
         html.Hr(),
         dbc.Nav(
             [
@@ -193,7 +193,7 @@ def render_page_content(pathname):
         )
     elif pathname == "/system-2":
         # System II: Collaborative Filtering
-        # Select a subset of movies for user to rate (e.g., 100 movies)
+        # Select a subset of movies for user to rate (100 movies)
         sample_movies = get_displayed_movies(movies_df=movies, n=100)
         
         if sample_movies.empty:
