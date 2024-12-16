@@ -1,0 +1,11 @@
+movieID,NumPositiveRatings,Title,Genres,PosterURL,PopularityScore,PrefixedMovieID
+2858,2853,American Beauty (1999),Multiple,https://liangfgithub.github.io/MovieImages/2858.jpg,3428,m2858
+260,2622,Star Wars: Episode IV - A New Hope (1977),Multiple,https://liangfgithub.github.io/MovieImages/260.jpg,2991,m260
+1196,2510,Star Wars: Episode V - The Empire Strikes Back (1980),Multiple,https://liangfgithub.github.io/MovieImages/1196.jpg,2990,m1196
+2028,2260,Saving Private Ryan (1998),Multiple,https://liangfgithub.github.io/MovieImages/2028.jpg,2653,m2028
+1198,2260,Raiders of the Lost Ark (1981),Multiple,https://liangfgithub.github.io/MovieImages/1198.jpg,2514,m1198
+593,2252,"Silence of the Lambs, The (1991)",Multiple,https://liangfgithub.github.io/MovieImages/593.jpg,2578,m593
+2571,2171,"Matrix, The (1999)",Multiple,https://liangfgithub.github.io/MovieImages/2571.jpg,2590,m2571
+2762,2163,"Sixth Sense, The (1999)",Thriller,https://liangfgithub.github.io/MovieImages/2762.jpg,2459,m2762
+1210,2127,Star Wars: Episode VI - Return of the Jedi (1983),Multiple,https://liangfgithub.github.io/MovieImages/1210.jpg,2883,m1210
+608,2074,Fargo (1996),Multiple,https://liangfgithub.github.io/MovieImages/608.jpg,2513,m608
